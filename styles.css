@@ -22,7 +22,7 @@ body {
     height: 100vh;
     display: flex;
     flex-direction: column;
-    margin: 0px 28%;
+    /* margin: 0px 28%; */
     background-color: black;
 }
 
